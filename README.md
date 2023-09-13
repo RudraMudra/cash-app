@@ -1,6 +1,6 @@
 ## cash_app
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+Generated with ❤️ Rudra
 
 ## Description
 
